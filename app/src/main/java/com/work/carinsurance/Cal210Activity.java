@@ -136,6 +136,7 @@ public class Cal210Activity extends Activity{
                 dialog.show();
             }});
 		//
+		//590128
 		sp1 = (Spinner) findViewById(R.id.spinner1);
 		sp2 = (Spinner) findViewById(R.id.spinner2);
 		sp3 = (Spinner) findViewById(R.id.spinner3);
